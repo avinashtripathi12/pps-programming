@@ -5,7 +5,7 @@
 # **NAME** : *****AVINASH TRIPATHI*****
 ## ROLL NO : *1914024*
 ## BRANCH : *CIVIL*
-## SECTION : C '2'
+## SECTION : A '1'
 
 ____
 
